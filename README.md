@@ -4,6 +4,28 @@
 <p>Birth: Dec. 25, 1642 [Jan. 4, 1643, New Style], Woolsthorpe, Lincolnshire, England</p>
 <p>Death: March 20 [March 31], 1727, London</p>
 <p>Known for: the Newtonian Revolution</p>
+  
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(1).pdf" style="text-decoration:none;">The method of fluxions and infinite series : with its application to the geometry of curve-lines</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(2).pdf" style="text-decoration:none;">A new theory of light and colours</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(3).rar" style="text-decoration:none;">Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(4).pdf" style="text-decoration:none;">The Principia: Mathematical Principles of Natural Philosophy</a></li>                              
+</ul>
+
+</br>
+
+  
+  
+  
+  
+  
 <p><strong>[2] Albert Einstein</strong></p>
 <p>Birth: March 14, 1879, Ulm, Wurttemberg, Germany</p>
 <p>Death: April 18, 1955, Princeton, N.J., U.S.</p>
