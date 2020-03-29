@@ -356,6 +356,41 @@
 <p><strong>[54] Stephen W. Hawking</strong></p>
 <p>Birth: Jan. 8, 1942, Oxford, Oxfordshire, England</p>
 <p>Known for: Quantum Cosmology</p>
+
+
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(41).pdf" style="text-decoration:none;">A Brief History of Time</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(42).pdf" style="text-decoration:none;">Black Holes and Baby Universes and other Essays</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(43).pdf" style="text-decoration:none;">Hawking On The Big Bang And Black Holes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(44).pdf" style="text-decoration:none;">The large scale structure ofspace-time</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(45).pdf" style="text-decoration:none;">The Grand Design</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(46).pdf" style="text-decoration:none;">The Nature of Space and Time</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(47).pdf" style="text-decoration:none;">The Theory Of Everything: The Origin and Fate of the Universe</a></li>
+
+
+
+
+
+</ul>
+
+</br>
+
+
+
+
+
+
 <p><strong>[55] Antonie van Leeuwenhoek</strong></p>
 <p>Birth: Oct. 24, 1632, Delft, Neth.</p>
 <p>Death: Aug. 26, 1723, Delft</p>
