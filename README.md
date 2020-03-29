@@ -30,6 +30,36 @@
 <p>Birth: March 14, 1879, Ulm, Wurttemberg, Germany</p>
 <p>Death: April 18, 1955, Princeton, N.J., U.S.</p>
 <p>Known for: Twentieth-Century Science</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(5).pdf" style="text-decoration:none;">The Meaning of Relativity</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(6).pdf" style="text-decoration:none;">The Evolution of Physics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(7).pdf" style="text-decoration:none;">Ideas and Opinions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(8).pdf" style="text-decoration:none;">The World as I See It </a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(9).pdf" style="text-decoration:none;">Out of My Later Years: The Scientist, Philosopher and Man Portrayed Through His Own Words</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(10).pdf" style="text-decoration:none;">Relativity: The Special and the General Theory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(11).pdf" style="text-decoration:none;">On the electrodynamics of moving bodies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(12).pdf" style="text-decoration:none;">The Collected Papers of Albert Einstein</a></li>                              
+
+
+
+
+</ul>
+
+</br>
+
+
+
 <p><strong>[3] Neils Bohr</strong></p>
 <p>Birth: Oct. 7, 1885, Copenhagen, Denmark</p>
 <p>Death: Nov. 18, 1962, Copenhagen</p>
