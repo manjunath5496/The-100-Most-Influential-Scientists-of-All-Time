@@ -452,6 +452,41 @@
 <p>Birth: March 4, 1904, Odessa, Russian Empire [now in Ukraine]</p>
 <p>Death: Aug. 19, 1968, Boulder, Colo., U.S.</p>
 <p>Known for: Big Bang Hypothesis</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(21).pdf" style="text-decoration:none;">One Two Three... Infinity: Facts and Speculations of Science</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(22).pdf" style="text-decoration:none;">Gravity</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(23).pdf" style="text-decoration:none;">Tompkins in Wonderland" and "Mr. Tompkins Explores the Atom."</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(24).pdf" style="text-decoration:none;">Structure of Atomic Nuclei and Nuclear Transformations</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(25).pdf" style="text-decoration:none;">The birth and death of the sun: stellar evolution and subatomic energy</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(26).pdf" style="text-decoration:none;">The creation of the universe</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(27).pdf" style="text-decoration:none;">Thirty Years that Shook Physics: The Story of Quantum Theory</a></li>
+
+
+
+
+
+</ul>
+
+</br>
+
+
+
+
+
+
+
+
 <p><strong>[93] Francis Collins</strong></p>
 <p>Birth: April 14, 1950, Staunton, Va., U.S.</p>
 <p>Known for: Human Genome Project</p>
