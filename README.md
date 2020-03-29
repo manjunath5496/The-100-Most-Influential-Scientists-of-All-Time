@@ -64,6 +64,21 @@
 <p>Birth: Oct. 7, 1885, Copenhagen, Denmark</p>
 <p>Death: Nov. 18, 1962, Copenhagen</p>
 <p>Known for: the Atom</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(13).pdf" style="text-decoration:none;">The Theory of Spectra and Atomic Constitution</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(14).pdf" style="text-decoration:none;">Atomic Physics and Human Knowledge</a></li>
+
+                           
+</ul>
+
+</br>
+
 <p><strong>[4] Charles Darwin</strong></p>
 <p>Birth: Feb. 12, 1809, Shrewsbury, Shropshire, England</p>
 <p>Death: April 19, 1882, Downe, Kent</p>
