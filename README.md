@@ -167,6 +167,38 @@
 <p>Birth: April 23, 1858, Kiel, Schleswig [Germany]</p>
 <p>Death: Oct. 4, 1947, G&ouml;ttingen, West Germany</p>
 <p>Known for: the Quanta</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(15).pdf" style="text-decoration:none;">Scientific Autobiography and other papers</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(16).pdf" style="text-decoration:none;">Treatise on Thermodynamics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(17).pdf" style="text-decoration:none;">Eight lectures on theoretical physics, delivered at Columbia University in 1909</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(18).pdf" style="text-decoration:none;">The Philosophy of Physics</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(19).pdf" style="text-decoration:none;">The Universe In The Light Of Modern Physics</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(20).pdf" style="text-decoration:none;">Where Is Science Going?</a></li>
+
+
+
+
+</ul>
+
+</br>
+
+
+
+
+
+
+
+
 <p><strong>[26] Marie Curie</strong></p>
 <p>Birth: Nov. 7, 1867, Warsaw, Poland, Russian Empire</p>
 <p>Death: July 4, 1934, near Sallanches, France</p>
