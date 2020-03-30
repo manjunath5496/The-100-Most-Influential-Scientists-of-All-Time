@@ -83,6 +83,32 @@
 <p>Birth: Feb. 12, 1809, Shrewsbury, Shropshire, England</p>
 <p>Death: April 19, 1882, Downe, Kent</p>
 <p>Known for: Evolution</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(48).pdf" style="text-decoration:none;">The Voyage of the Beagle</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(49).pdf" style="text-decoration:none;">The Descent of Man</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(50).pdf" style="text-decoration:none;">On the Origin of Species</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(51).pdf" style="text-decoration:none;">The Life and Letters of Charles Darwin</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(52).pdf" style="text-decoration:none;">The Expression of Emotion in Man and Animals </a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(53).pdf" style="text-decoration:none;">The Foundation of the Origin of Species: Two Essays Written in 1842 and 1844 by Charles Darwin</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(54).pdf" style="text-decoration:none;">The Expression of the Emotions in Man and Animals</a></li>
+ 
+ 
+ 
+                           
+</ul>
+
+</br>
+
 <p><strong>[5] Louis Pasteur</strong></p>
 <p>Birth: Dec. 27, 1822, Dole, France</p>
 <p>Sept. 28, 1895, Saint-Cloud, near Paris</p>
