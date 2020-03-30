@@ -688,6 +688,19 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(71).pdf" style="text-decoration:none;">Cockroaches: Ecology, Behavior, and Natural History</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(72).pdf" style="text-decoration:none;">Half-Earth: Our Planet's Fight for Life</a></li> 
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(73).pdf" style="text-decoration:none;">Letters to a Young Scientist</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(74).pdf" style="text-decoration:none;">Kingdom of Ants</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(75).pdf" style="text-decoration:none;">The Meaning of Human Existence</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(76).pdf" style="text-decoration:none;">On Human Nature – Twenty–Fifth Anniversary</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(77).pdf" style="text-decoration:none;">Journey to the Ants: A Story of Scientific Exploration</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(78).rar" style="text-decoration:none;">Biodiversity: An Ecological Perspective</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(79).pdf" style="text-decoration:none;">Sociobiology: The New Synthesis</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(80).pdf" style="text-decoration:none;">Evolution: The First Four Billion Years</a></li> 
+ 
+ 
  
  
 </ul>
