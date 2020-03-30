@@ -566,6 +566,26 @@
 <p>Birth: June 24, 1915, Bingley, Yorkshire [now West Yorkshire], England</p>
 <p>Death: Aug. 20, 2001, Bournemouth, Dorset</p>
 <p>Known for: Stellar nucleosynthesis</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(60).pdf" style="text-decoration:none;">The Black Cloud</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(61).pdf" style="text-decoration:none;">Element 79</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(62).pdf" style="text-decoration:none;">The Intelligent Universe</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(63).pdf" style="text-decoration:none;">A For Andromeda</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(64).pdf" style="text-decoration:none;">Evolution from Space: A Theory of Cosmic Creationism</a></li>
+
+</ul>
+
+
+
 <p><strong>[89] Norman Ernest Borlaug</strong></p>
 <p>Birth: March 25, 1914, Cresco, Iowa, U.S.</p>
 <p>Known for: Green revolution</p>
