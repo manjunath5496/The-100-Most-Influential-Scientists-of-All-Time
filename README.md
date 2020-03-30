@@ -584,7 +584,7 @@
 
 </ul>
 
-
+</br>
 
 <p><strong>[89] Norman Ernest Borlaug</strong></p>
 <p>Birth: March 25, 1914, Cresco, Iowa, U.S.</p>
