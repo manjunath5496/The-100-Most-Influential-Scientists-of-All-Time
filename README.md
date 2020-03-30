@@ -117,6 +117,29 @@
 <p>Birth: May 6, 1856, Freiberg, Moravia, Austrian Empire [now Přibor, Czech Republic]</p>
 <p>Death: Sept. 23, 1939, London, England</p>
 <p>Known for: Psychology of the Unconscious</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(55).pdf" style="text-decoration:none;">Civilization and Its Discontents</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(56).pdf" style="text-decoration:none;">The Interpretation of Dreams</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(57).pdf" style="text-decoration:none;">Dream Psychology</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(58).pdf" style="text-decoration:none;">A General Introduction to Psychoanalysis</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(59).pdf" style="text-decoration:none;">Jokes and Their Relation to the Unconscious </a></li>
+                            
+
+                           
+</ul>
+
+</br>
+
+
+
 <p><strong>[7] Galileo Galilei</strong></p>
 <p>Birth: Feb. 15, 1564, Pisa [Italy]</p>
 <p>Death: Jan. 8, 1642, Arcetri, near Florence</p>
