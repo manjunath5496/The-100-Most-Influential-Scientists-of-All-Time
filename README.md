@@ -667,5 +667,33 @@
 <p>Birth: April 15, 1452, Anchiano, near Vinci, Republic of Florence [now in Italy]</p>
 <p>Death: June 10, 1929, Birmingham, Ala., U.S.</p>
 <p>Known for: Sociobiology</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(65).pdf" style="text-decoration:none;">The Superorganism: The Beauty, Elegance, and Strangeness of Insect Societies</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(66).pdf" style="text-decoration:none;">Genes, Mind, and Culture: the coevolutionary process</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(67).pdf" style="text-decoration:none;">Sociobiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(68).pdf" style="text-decoration:none;">Darwin's Bridge: Uniting the Humanities and Sciences</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(69).pdf" style="text-decoration:none;">Biodiversity and Climate Change</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(70).pdf" style="text-decoration:none;">The Social Conquest of Earth</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(71).pdf" style="text-decoration:none;">Cockroaches: Ecology, Behavior, and Natural History</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(72).pdf" style="text-decoration:none;">Half-Earth: Our Planet's Fight for Life</a></li> 
+ 
+ 
+ 
+</ul>
+
+</br>
+
+
 </div>
 </div>
