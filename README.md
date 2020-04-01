@@ -240,6 +240,25 @@
 <p>Birth: Feb. 28, 1901, Portland, Ore., U.S.</p>
 <p>Death: Aug. 19, 1994, Big Sur, California</p>
 <p>Known for: Twentieth-Century Chemistry</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(92).pdf" style="text-decoration:none;">Introduction to Quantum Mechanics with Applications to Chemistry</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(93).pdf" style="text-decoration:none;">The Nature of the Chemical Bond and the Structure of Molecules and Crystals: An Introduction to Modern Structural Chemistry</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(94).pdf" style="text-decoration:none;">The Architecture of Molecules</a></li>
+                         
+</ul>
+
+</br>
+
+
+
 <p><strong>[17] Erwin Schrodinger</strong></p>
 <p>Birth: Aug. 12, 1887, Vienna, Austria</p>
 <p>Death: Jan. 4, 1961, Vienna</p>
