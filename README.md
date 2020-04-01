@@ -428,6 +428,36 @@
 <p>Birth: December 28, 1903, Budapest, Austria-Hungary</p>
 <p>Death: February 8, 1957, Walter Reed General Hospital Washington, D.C.</p>
 <p>Known for: the Modern Computer</p>
+
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(95).pdf" style="text-decoration:none;">The Computer and the Brain</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(96).pdf" style="text-decoration:none;">Theory of Games and Economic Behavior</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(97).pdf" style="text-decoration:none;">John von Neumann: Selected Letters</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(98).pdf" style="text-decoration:none;">Invariant Measures</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(99).pdf" style="text-decoration:none;">he Logico-Algebraic Approach to Quantum Mechanics: Volume I</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(100).pdf" style="text-decoration:none;">Functional operators: The geometry of orthogonal spaces, Volume 2</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(101).pdf" style="text-decoration:none;">Mathematical Foundations of Quantum Mechanics</a></li>
+
+
+</ul>
+
+</br>
+
+
+
+
+
 <p><strong>[52] Richard P. Feynman</strong></p>
 <p>Birth: May 11, 1918, New York, N.Y., U.S.</p>
 <p>Death: Feb. 15, 1988, Los Angeles, California</p>
