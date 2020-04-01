@@ -196,6 +196,34 @@
 <p>Birth: June 13, 1831, Edinburgh, Scotland</p>
 <p>Death: Nov. 5, 1879, Cambridge, Cambridgeshire, England</p>
 <p>Known for: the Electromagnetic Field</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(88).pdf" style="text-decoration:none;">Matter and Motion</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(89).pdf" style="text-decoration:none;">A Treatise on Electricity and Magnetism</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(90).pdf" style="text-decoration:none;">A Dynamical Theory of the Electromagnetic Field</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(91).pdf" style="text-decoration:none;">Theory of Heat</a></li>                              
+
+
+
+
+</ul>
+
+
+
+
+</br>
+
+
+
+
+
 <p><strong>[13] Claude Bernard</strong></p>
 <p>Birth: July 12, 1813, Saint-Julien</p>
 <p>Death: February. 10, 1878, Paris</p>
