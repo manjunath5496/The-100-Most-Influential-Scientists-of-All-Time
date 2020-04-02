@@ -681,6 +681,22 @@
 <p>Birth: March 13, 1733, Birstall Fieldhead, near Leeds, Yorkshire [now West Yorkshire], England</p>
 <p>Death: Feb. 6, 1804, Northumberland, Pa., U.S.</p>
 <p>Known for: Discovery of oxygen</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(108).pdf" style="text-decoration:none;">Experiments and Observations on Different Kinds of Air (1774–86)</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(109).pdf" style="text-decoration:none;">The History and Present State of Electricity</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(110).pdf" style="text-decoration:none;">Observations on Respiration, and the Use of the Blood</a></li>
+</ul>
+</br>
+
+
+
 <p><strong>[81] Hippocrates</strong></p>
 <p>Known for: Medicine</p>
 <p><strong>[82] Pythagoras</strong></p>
