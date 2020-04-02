@@ -385,6 +385,33 @@
 <p>Birth: December 11, 1882, Breslau, German Empire</p>
 <p>Death: January 5, 1970, G&ouml;ttingen, West Germany</p>
 <p>Known for: Quantum Mechanics</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(111).pdf" style="text-decoration:none;">Einstein's theory of relativity</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(112).pdf" style="text-decoration:none;">Physics in My Generation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(113).pdf" style="text-decoration:none;">The Born Einstein Letters</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(114).pdf" style="text-decoration:none;">The Mechanics Of The Atom</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(115).pdf" style="text-decoration:none;">The Statistical Interpretation of Quantum Mechanics</a></li>
+                            
+
+
+
+
+</ul>
+
+</br>
+
+
+
+
 <p><strong>[33] Francis Harry Compton Crick</strong></p>
 <p>Birth: June 8, 1916, Northampton, Northamptonshire, England</p>
 <p>Death: July 28, 2004, San Diego, Calif., U.S.</p>
