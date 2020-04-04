@@ -60,7 +60,7 @@
 
 
 
-<p><strong>[3] Neils Bohr</strong></p>
+<p><strong>[3] Niels Bohr</strong></p>
 <p>Birth: Oct. 7, 1885, Copenhagen, Denmark</p>
 <p>Death: Nov. 18, 1962, Copenhagen</p>
 <p>Known for: the Atom</p>
