@@ -113,6 +113,30 @@
 <p>Birth: Dec. 27, 1822, Dole, France</p>
 <p>Sept. 28, 1895, Saint-Cloud, near Paris</p>
 <p>Known for: the Germ Theory of Disease</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(135).pdf" style="text-decoration:none;">The Foundations of Stereo Chemistry</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(136).pdf" style="text-decoration:none;">Studies on Fermentation: The Diseases of Beer, Their Causes, and the Means of Preventing Them</a></li>
+
+ 
+ 
+ 
+                           
+</ul>
+
+</br>
+
+
+
+
+
+
 <p><strong>[6] Sigmund Freud</strong></p>
 <p>Birth: May 6, 1856, Freiberg, Moravia, Austrian Empire [now Přibor, Czech Republic]</p>
 <p>Death: Sept. 23, 1939, London, England</p>
