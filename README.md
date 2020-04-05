@@ -206,6 +206,22 @@
 <p>Birth: Feb. 19, 1473, Toruń, Poland</p>
 <p>Death: May 24, 1543, Frauenburg, East Prussia [now Frombork, Poland]</p>
 <p>Known for: the Heliocentric Universe</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(137).pdf" style="text-decoration:none;">On the Revolutions of Heavenly Spheres</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(138).pdf" style="text-decoration:none;">Three Treatises on Copernican Theory</a></li>
+
+                           
+</ul>
+
+</br>
+
 <p><strong>[11] Michael Faraday</strong></p>
 <p>Birth: Sept. 22, 1791, Newington, Surrey, England</p>
 <p>Death: Aug. 25, 1867, Hampton Court</p>
