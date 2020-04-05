@@ -144,6 +144,32 @@
 <p>Birth: Feb. 15, 1564, Pisa [Italy]</p>
 <p>Death: Jan. 8, 1642, Arcetri, near Florence</p>
 <p>Known for: the New Science</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(128).pdf" style="text-decoration:none;">Two New Sciences</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(129).pdf" style="text-decoration:none;">Discoveries and opinions of Galileo</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(130).pdf" style="text-decoration:none;">Delphi Collected Works of Galileo Galilei</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(131).pdf" style="text-decoration:none;">Dialogue Concerning the Two Chief World Systems</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(132).pdf" style="text-decoration:none;">The Assayer</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(133).pdf" style="text-decoration:none;">On Sunspots</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(134).pdf" style="text-decoration:none;">The Sidereal Messenger</a></li>
+                           
+</ul>
+
+</br>
+
+
+
 <p><strong>[8] Antoine-Lau rent Lavoisier</strong></p>
 <p>Birth: Aug. 26, 1743, Paris, France</p>
 <p>Death: May 8, 1794, Paris</p>
