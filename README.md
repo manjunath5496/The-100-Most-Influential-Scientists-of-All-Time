@@ -821,6 +821,43 @@
 <p><strong>[93] Francis Collins</strong></p>
 <p>Birth: April 14, 1950, Staunton, Va., U.S.</p>
 <p>Known for: Human Genome Project</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(116).pdf" style="text-decoration:none;">The Narrative of an Explorer in Tropical South Africa: With Colored Maps, Plates and Woodcuts </a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(117).pdf" style="text-decoration:none;">The Art of Travel: Or Shifts and Contrivances Available in Wild Countries</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(118).pdf" style="text-decoration:none;">Hereditary Genius</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(119).pdf" style="text-decoration:none;">Inquiries into Human Faculty and Its Development</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(120).pdf" style="text-decoration:none;">Fingerprint Directories</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(121).pdf" style="text-decoration:none;">Essays in Eugenics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(122).pdf" style="text-decoration:none;">English Men of Science; their Nature and Nurture </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(123).pdf" style="text-decoration:none;">Natural Inheritance</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(124).pdf" style="text-decoration:none;">Letters to a Young Scientist</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(125).pdf" style="text-decoration:none;">Memories of My Life</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(126).pdf" style="text-decoration:none;">Noteworthy Families (Modern Science), an Index to Kinships in Near Degrees Between Persons Whose Achievements Are Honourable, and Have Been Publicly Recorded </a></li>
+ 
+ 
+ 
+ 
+ 
+</ul>
+
+</br>
+
+
+
 <p><strong>[94] Albert Abraham Michelson</strong></p>
 <p>Birth: Dec. 19, 1852, Strelno, Prussia [now Strzelno, Pol.]</p>
 <p>Death: May 9, 1931, Pasadena, Calif., U.S.</p>
