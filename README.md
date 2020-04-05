@@ -367,6 +367,24 @@
 <p>Birth: Aug. 30, 1871, Spring Grove, N.Z.</p>
 <p>Death: Oct. 19, 1937, Cambridge, Cambridgeshire, England</p>
 <p>Known for: the Structure of the Atom</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(144).pdf" style="text-decoration:none;">Radiations from Radioactive Substances</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(145).pdf" style="text-decoration:none;">Radioactive substances and their radiations</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(146).pdf" style="text-decoration:none;">Radioactive Transformations</a></li>
+                          
+</ul>
+
+</br>
+
+
+
 <p><strong>[20] Paul Adrien Maurice Dirac</strong></p>
 <p>Birth: Aug. 8, 1902, Bristol, Gloucestershire, England</p>
 <p>Death: Oct. 20, 1984, Tallahassee, Florida, USA</p>
