@@ -842,13 +842,13 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(122).pdf" style="text-decoration:none;">English Men of Science; their Nature and Nurture </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(123).pdf" style="text-decoration:none;">Natural Inheritance</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(124).pdf" style="text-decoration:none;">Letters to a Young Scientist</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(124).pdf" style="text-decoration:none;">The Origin of Fingerprinting</a></li>
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(125).pdf" style="text-decoration:none;">Memories of My Life</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(126).pdf" style="text-decoration:none;">Noteworthy Families (Modern Science), an Index to Kinships in Near Degrees Between Persons Whose Achievements Are Honourable, and Have Been Publicly Recorded </a></li>
  
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(127).pdf" style="text-decoration:none;">Probability, the foundation of Eugenics</a></li>
  
  
  
