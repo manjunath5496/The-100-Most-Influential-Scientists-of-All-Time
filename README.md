@@ -688,6 +688,29 @@
 <p>Birth: July 2, 1906, Strassburg, Ger. [now Strasbourg, France]</p>
 <p>Death: March 6, 2005, Ithaca, N.Y., U.S.</p>
 <p>Known for: the Energy of the Sun</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(139).pdf" style="text-decoration:none;">Acoustic Interactions with Submerged Elastic Structures</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(140).pdf" style="text-decoration:none;">Elementary Nuclear Theory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(141).pdf" style="text-decoration:none;">Selected Works of Hans A. Bethe: With Commentary</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(142).pdf" style="text-decoration:none;">Theory of the fireball</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(143).pdf" style="text-decoration:none;">Formation and Evolution of Black Holes in the Galaxy</a></li>     
+ 
+</ul>
+
+</br>
+
+
+
+
+
+
 <p><strong>[59] Euclid</strong></p>
 <p>Known for: the Foundations of Mathematics</p>
 <p><strong>[60] Gregor Mendel</strong></p>
