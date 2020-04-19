@@ -791,6 +791,24 @@
 <p>Birth: May 23, 1707, R&aring;shult, Stenbrohult parish (now within &Auml;lmhult Municipality), Sweden</p>
 <p>Death: January 10, 1778, Hammarby (estate), Danmark parish (outside Uppsala), Sweden</p>
 <p>Known for: the Binomial Nomenclature</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(193).pdf" style="text-decoration:none;">Systema Naturae</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(194).pdf" style="text-decoration:none;">Philosophia Botanica</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(195).pdf" style="text-decoration:none;">Species Plantarum</a></li>
+ 
+</ul>
+</br>
+
+
+
+
 <p><strong>[75] J. Robert Oppenheimer</strong></p>
 <p>Birth: April 22, 1904, New York, N.Y., U.S.</p>
 <p>Death: Feb. 18, 1967, Princeton, N.J.</p>
