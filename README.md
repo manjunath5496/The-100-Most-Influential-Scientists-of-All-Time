@@ -779,6 +779,27 @@
 <p>Birth: Sept. 5 or 6, 1766, Eaglesfield, Cumberland, England</p>
 <p>Death: July 27, 1844, Manchester</p>
 <p>Known for: the Theory of the Atom</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(201).pdf" style="text-decoration:none;">A New System of Chemical Philosophy</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(202).pdf" style="text-decoration:none;">Foundations of the Atomic Theory: Comprising Papers and Extracts</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(203).pdf" style="text-decoration:none;">Foundations of the Molecular Theory</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(204).pdf" style="text-decoration:none;">Meteorological Observations and Essays</a></li>
+ 
+</ul>
+</br>
+
+
+
+
 <p><strong>[72] Frederick Sanger</strong></p>
 <p>Birth: August 13, 1918, Rendcomb, Gloucestershire, England</p>
 <p>Death: November 19, 2013, Cambridge, Cambridgeshire, England</p>
