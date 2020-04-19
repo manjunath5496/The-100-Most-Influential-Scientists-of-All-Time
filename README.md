@@ -702,6 +702,16 @@
 <p>Birth: March 12, 1824, K&ouml;nigsberg, Kingdom of Prussia [present-day Russia]</p>
 <p>Death: October 17, 1887, Berlin, Prussia, German Empire [present-day Germany]</p>
 <p>Known for: Kirchhoff's circuit laws, Kirchhoff's laws of spectroscopy, Kirchhoff's law of thermochemistry &amp; Kirchhoff's law of thermal radiation</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(208).pdf" style="text-decoration:none;">Researches on the Solar Spectrum, and the Spectra of the Chemical Elements</a></li>
+</ul>
+</br>
 <p><strong>[58] Hans Bethe</strong></p>
 <p>Birth: July 2, 1906, Strassburg, Ger. [now Strasbourg, France]</p>
 <p>Death: March 6, 2005, Ithaca, N.Y., U.S.</p>
