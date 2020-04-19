@@ -968,6 +968,17 @@
 <p><strong>[94] Albert Abraham Michelson</strong></p>
 <p>Birth: Dec. 19, 1852, Strelno, Prussia [now Strzelno, Pol.]</p>
 <p>Death: May 9, 1931, Pasadena, Calif., U.S.</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(164).pdf" style="text-decoration:none;">Studies in Optics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(165).pdf" style="text-decoration:none;">Experimental determination of the velocity of light</a></li>
+</ul>
+</br>
+
 <p>Known for: Establishment of the speed of light as a fundamental Constant</p>
 <p><strong>[95] Rachel Carson</strong></p>
 <p>Birth: May 27, 1907, Springdale, Pa., U.S.</p>
