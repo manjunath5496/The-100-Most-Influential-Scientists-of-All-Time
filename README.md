@@ -787,6 +787,26 @@
 <p>Birth: August 15, 1892, Dieppe, France</p>
 <p>Death: March 19, 1987, Louveciennes, France</p>
 <p>Known for: Wave/Particle Duality</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(196).pdf" style="text-decoration:none;">The Interpretation of Wave Mechanics with the help of Waves with Singular Regions</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(197).pdf" style="text-decoration:none;">The wave nature of the electron [Nobel Lecture]</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(198).pdf" style="text-decoration:none;">An Introduction To The Study Of Wave Mechanics</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(199).pdf" style="text-decoration:none;">Matter and Light: The New Physics</a></li>
+ 
+</ul>
+</br>
+
+
+
 <p><strong>[74] Carl Linnaeus</strong></p>
 <p>Birth: May 23, 1707, R&aring;shult, Stenbrohult parish (now within &Auml;lmhult Municipality), Sweden</p>
 <p>Death: January 10, 1778, Hammarby (estate), Danmark parish (outside Uppsala), Sweden</p>
