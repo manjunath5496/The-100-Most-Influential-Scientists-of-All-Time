@@ -803,6 +803,20 @@
 <p>Birth: October 28, 1914, New York</p>
 <p>Death: June 23, 1995, La Jolla, California, United States</p>
 <p>Known for: Vaccination</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(187).pdf" style="text-decoration:none;">Man Unfolding</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(188).pdf" style="text-decoration:none;">A New Reality: Human Evolution for a Sustainable Future</a></li>
+</ul>
+</br>
+
+
+
 <p><strong>[78] Robert Boyle</strong></p>
 <p>Birth: Jan. 25, 1627, Lismore Castle, County Waterford, Ireland</p>
 <p>Death: Dec. 31, 1691, London, England</p>
