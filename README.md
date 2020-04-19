@@ -981,6 +981,35 @@
 <p>Birth: May 28, 1807, Motier, Switz.</p>
 <p>Death: Dec. 14, 1873, Cambridge, Mass., U.S.</p>
 <p>Known for: Natural science</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(153).pdf" style="text-decoration:none;">Darwin and Humboldt: their lives and work</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(154).pdf" style="text-decoration:none;">Geological sketches </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(155).pdf" style="text-decoration:none;">Louis Agassiz: His Life and Correspondence</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(156).pdf" style="text-decoration:none;">Methods of study in natural history</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(157).pdf" style="text-decoration:none;">A Journey in Brazil</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(158).pdf" style="text-decoration:none;">Principles of Zoology</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(159).pdf" style="text-decoration:none;">Twelve Lectures on Comparative Embryology: Delivered Before the Lowell Institute, in Boston, December and January, 1848-9</a></li>
+  
+  
+  
+  
+  
+</ul>
+</br>
+
+
+
+
 <p><strong>[98] Andr&eacute;-Marie Amp&egrave;re</strong></p>
 <p>Birth: Jan. 22, 1775, Lyon, France</p>
 <p>Death: June 10, 1836, Marseille</p>
