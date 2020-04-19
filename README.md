@@ -783,6 +783,17 @@
 <p>Birth: August 13, 1918, Rendcomb, Gloucestershire, England</p>
 <p>Death: November 19, 2013, Cambridge, Cambridgeshire, England</p>
 <p>Known for: the Genetic Code</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(200).pdf" style="text-decoration:none;">The chemistry of insulin [Nobel Lecture]</a></li>
+</ul>
+</br>
+
+
 <p><strong>[73] Louis Victor de Broglie</strong></p>
 <p>Birth: August 15, 1892, Dieppe, France</p>
 <p>Death: March 19, 1987, Louveciennes, France</p>
