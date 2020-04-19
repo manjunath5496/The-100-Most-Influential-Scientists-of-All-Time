@@ -775,6 +775,27 @@
 <p>Birth: May 2, 1860, Wednesbury, Staffordshire, England</p>
 <p>Death: August 27, 1924, London, England</p>
 <p>Known for: Modern Physiology</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(205).pdf" style="text-decoration:none;">Intravenous Injection in Wound Shock: Being the Oliver-Sharpey Lectures Delivered Before the Royal College of Physicians of London in May 1918</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(206).pdf" style="text-decoration:none;">The Nature of Enzyme Action</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(207).pdf" style="text-decoration:none;">The Physiology of Food and Economy in Diet</a></li>
+ 
+
+ 
+</ul>
+</br>
+
+
+
+
+
 <p><strong>[71] John Dalton</strong></p>
 <p>Birth: Sept. 5 or 6, 1766, Eaglesfield, Cumberland, England</p>
 <p>Death: July 27, 1844, Manchester</p>
