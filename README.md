@@ -972,6 +972,32 @@
 <p><strong>[95] Rachel Carson</strong></p>
 <p>Birth: May 27, 1907, Springdale, Pa., U.S.</p>
 <p>Death: April 14, 1964, Silver Spring, Md.</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(160).pdf" style="text-decoration:none;">Silent Spring</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(161).pdf" style="text-decoration:none;">The Sea Around Us </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(162).pdf" style="text-decoration:none;">Under the Sea Wind</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(163).rar" style="text-decoration:none;">The Edge of the Sea</a></li> 
+ 
+ 
+  
+  
+  
+  
+  
+</ul>
+</br>
+
+
+
+
 <p>Known for: Environmental pollution and the natural history of the sea</p>
 <p><strong>[96] Joseph Lister</strong></p>
 <p>Birth: April 5, 1827, Upton, Essex, England</p>
