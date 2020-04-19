@@ -807,6 +807,46 @@
 <p>Birth: Jan. 25, 1627, Lismore Castle, County Waterford, Ireland</p>
 <p>Death: Dec. 31, 1691, London, England</p>
 <p>Known for: Boyle&rsquo;s law</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(178).pdf" style="text-decoration:none;">The Christian Virtuoso</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(179).pdf" style="text-decoration:none;">Selected Philosophical Papers of Robert Boyle</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(180).pdf" style="text-decoration:none;">An Essay about the Origins and Virtues of Gems</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(181).pdf" style="text-decoration:none;">Experiments and Considerations Touching Colours</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(182).pdf" style="text-decoration:none;">The Sceptical Chymist </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(183).pdf" style="text-decoration:none;">Some considerations about the reconcileableness of reason and religion</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(184).pdf" style="text-decoration:none;">The Excellencies of Robert Boyle</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(185).pdf" style="text-decoration:none;">The Works of Robert Boyle</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(186).pdf" style="text-decoration:none;">Robert Boyle: A Free Enquiry Into the Vulgarly Received Notion of Nature</a></li>
+
+
+
+
+
+
+
+
+</ul>
+</br>
+
+
+
+
+
 <p><strong>[79] Francis Galton</strong></p>
 <p>Birth: Feb. 16, 1822, near Sparkbrook, Birmingham, Warwickshire, England</p>
 <p>Death: Jan. 17, 1911, Grayshott House, Haslemere, Surrey</p>
