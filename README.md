@@ -972,7 +972,7 @@
 <p><strong>[95] Rachel Carson</strong></p>
 <p>Birth: May 27, 1907, Springdale, Pa., U.S.</p>
 <p>Death: April 14, 1964, Silver Spring, Md.</p>
-
+<p>Known for: Environmental pollution and the natural history of the sea</p>
 </br>
 <p><strong> Publications: </strong></p>
 <hr>
@@ -994,11 +994,6 @@
   
 </ul>
 </br>
-
-
-
-
-<p>Known for: Environmental pollution and the natural history of the sea</p>
 <p><strong>[96] Joseph Lister</strong></p>
 <p>Birth: April 5, 1827, Upton, Essex, England</p>
 <p>Death: Feb. 10, 1912, Walmer, Kent</p>
