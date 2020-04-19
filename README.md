@@ -811,6 +811,49 @@
 <p>Birth: Feb. 16, 1822, near Sparkbrook, Birmingham, Warwickshire, England</p>
 <p>Death: Jan. 17, 1911, Grayshott House, Haslemere, Surrey</p>
 <p>Known for: Eugenics</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(166).pdf" style="text-decoration:none;">The First Steps Towards the Domestication of Animals</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(167).pdf" style="text-decoration:none;">Hereditary Genius</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(168).pdf" style="text-decoration:none;">The History of Twins, As a Criterion of the Relative Powers of Nature and Nurture</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(169).pdf" style="text-decoration:none;">Record of Family Faculties</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(170).pdf" style="text-decoration:none;">Life History Album</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(171).pdf" style="text-decoration:none;">Probability, the Foundation of Eugenics</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(172).pdf" style="text-decoration:none;">Essays in Eugenics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(173).pdf" style="text-decoration:none;">English Men of Science: Their Nature and Nurture</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(174).pdf" style="text-decoration:none;">Inquiries into Human Faculty and Its Development</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(175).pdf" style="text-decoration:none;">Natural Inheritance</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(176).pdf" style="text-decoration:none;">The Art of Travel</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(177).pdf" style="text-decoration:none;">Noteworthy Families</a></li>
+
+
+
+
+
+
+</ul>
+</br>
+
+
+
+
 <p><strong>[80] Joseph Priestley</strong></p>
 <p>Birth: March 13, 1733, Birstall Fieldhead, near Leeds, Yorkshire [now West Yorkshire], England</p>
 <p>Death: Feb. 6, 1804, Northumberland, Pa., U.S.</p>
