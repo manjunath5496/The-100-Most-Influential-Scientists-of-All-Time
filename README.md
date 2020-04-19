@@ -799,6 +799,16 @@
 <p>Birth: Aug. 6, 1881, Lochfield Farm, Darvel, Ayrshire, Scotland</p>
 <p>Death: March 11, 1955, London, England</p>
 <p>Known for: Penicillin</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(189).pdf" style="text-decoration:none;">Penicillin [Nobel Lecture]</a></li>
+</ul>
+</br>
+
 <p><strong>[77] Jonas Edward Salk</strong></p>
 <p>Birth: October 28, 1914, New York</p>
 <p>Death: June 23, 1995, La Jolla, California, United States</p>
