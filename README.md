@@ -694,6 +694,18 @@
 <p>Birth: Oct. 24, 1632, Delft, Neth.</p>
 <p>Death: Aug. 26, 1723, Delft</p>
 <p>Known for: the Simple Microscope</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(209).pdf" style="text-decoration:none;">The Select Works of Antony Van Leeuwenhoek: Containing His Microscopical Discoveries in Many of the Works of Nature</a></li>
+</ul>
+</br>
+
+
+
 <p><strong>[56] Max von Laue</strong></p>
 <p>Birth: Oct. 09, 1879, Pfaffendorf, Kingdom of Prussia, German Empire</p>
 <p>Death: April 24, 1960, West Berlin</p>
