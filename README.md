@@ -795,6 +795,22 @@
 <p>Birth: April 22, 1904, New York, N.Y., U.S.</p>
 <p>Death: Feb. 18, 1967, Princeton, N.J.</p>
 <p>Known for: the Atomic Era</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(190).pdf" style="text-decoration:none;">Science and Synthesis</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(191).pdf" style="text-decoration:none;">Science and the Common Understanding</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(192).pdf" style="text-decoration:none;">Atom and Void: Essays on Science and Community</a></li>
+ 
+</ul>
+</br>
+
+
 <p><strong>[76] Sir Alexander Fleming</strong></p>
 <p>Birth: Aug. 6, 1881, Lochfield Farm, Darvel, Ayrshire, Scotland</p>
 <p>Death: March 11, 1955, London, England</p>
