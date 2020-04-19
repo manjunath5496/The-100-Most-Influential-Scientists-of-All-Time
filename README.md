@@ -968,6 +968,9 @@
 <p><strong>[94] Albert Abraham Michelson</strong></p>
 <p>Birth: Dec. 19, 1852, Strelno, Prussia [now Strzelno, Pol.]</p>
 <p>Death: May 9, 1931, Pasadena, Calif., U.S.</p>
+
+
+<p>Known for: Establishment of the speed of light as a fundamental Constant</p>
 </br>
 <p><strong> Publications: </strong></p>
 <hr>
@@ -979,7 +982,7 @@
 </ul>
 </br>
 
-<p>Known for: Establishment of the speed of light as a fundamental Constant</p>
+
 <p><strong>[95] Rachel Carson</strong></p>
 <p>Birth: May 27, 1907, Springdale, Pa., U.S.</p>
 <p>Death: April 14, 1964, Silver Spring, Md.</p>
