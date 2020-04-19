@@ -985,10 +985,37 @@
 <p>Birth: Jan. 22, 1775, Lyon, France</p>
 <p>Death: June 10, 1836, Marseille</p>
 <p>Known for: Electrodynamics</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(152).pdf" style="text-decoration:none;">Mathematical Theory of Electrodynamic Phenomena</a></li>
+</ul>
+</br>
 <p><strong>[99] Paracelsus</strong></p>
 <p>Birth: Nov. 11 or Dec. 17, 1493, Einsiedeln, Switzerland</p>
 <p>Death: Sept. 24, 1541, Salzburg, Archbishopric of Salzburg [now in Austria]</p>
 <p>Known for: Der grossen Wundartzney (&ldquo;Great Surgery Book&rdquo;)</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(147).pdf" style="text-decoration:none;">The Aurora of the Philosophers</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(148).pdf" style="text-decoration:none;">The prophecies of Paracelsus: magic figures and prognostications made by Theophrastus Paracelsus about four hundred years ago</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(149).pdf" style="text-decoration:none;">The hermetic and alchemical writings of Aureolus Philippus Theophrastus Bombast, of Hohenheim, called Paracelsus the Great</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(150).pdf" style="text-decoration:none;">The Book Concerning The Tincture Of The Philosophers</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(151).pdf" style="text-decoration:none;">The Treasure of Treasures for Alchemists</a></li>
+</ul>
+</br>
+
 <p><strong>[100] Edward O. Wilson</strong></p>
 <p>Birth: April 15, 1452, Anchiano, near Vinci, Republic of Florence [now in Italy]</p>
 <p>Death: June 10, 1929, Birmingham, Ala., U.S.</p>
