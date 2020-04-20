@@ -1037,6 +1037,18 @@
 <p>Birth: Jan. 27 [Feb. 8, New Style], 1834, Tobolsk, Siberia, Russian Empire</p>
 <p>Death: Jan. 20 [Feb. 2], 1907, St. Petersburg, Russia</p>
 <p>Known for: the Periodic Table of Elements</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(304).pdf" style="text-decoration:none;">A Chemical Conception of the Ether </a></li>
+
+ 
+
+</ul>
+</br>
+
 <p><strong>[48] Sheldon Glashow</strong></p>
 <p>Birth: December 5, 1932, New York City, New York, USA</p>
 <p>Known for: Electroweak theory &amp; Georgi&ndash;Glashow model</p>
