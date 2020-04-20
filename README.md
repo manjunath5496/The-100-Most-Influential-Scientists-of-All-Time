@@ -705,6 +705,19 @@
 <p>Birth: Nov. 20, 1889, Marshfield, Mo., U.S.</p>
 <p>Death: Sept. 28, 1953, San Marino, California</p>
 <p>Known for: Extragalactic astronomy</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(258).pdf" style="text-decoration:none;">The Realm of the Nebulae</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(259).pdf" style="text-decoration:none;">Photographic Investigations of Faint Nebulae </a></li>
+</ul>
+</br>
+
 <p><strong>[31] Joseph J. Thomson</strong></p>
 <p>Birth: December 18, 1856, Cheetham Hill, Manchester, Lancashire, England, United Kingdom</p>
 <p>Death: August 30, 1940, Cambridge, Cambridgeshire, England, UK</p>
