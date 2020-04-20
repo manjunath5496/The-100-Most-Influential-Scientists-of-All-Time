@@ -1340,6 +1340,22 @@
 <p>Birth: July 22, 1822, Heinzendorf, Austria [now Hynčice, Czech Rep.]</p>
 <p>Death: Jan. 6, 1884, Br&uuml;nn, Austria-Hungary [now Brno, Czech Rep.]</p>
 <p>Known for: the Laws of Inheritance</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(319).pdf" style="text-decoration:none;">Experiments in Plant Hybridization</a></li>
+                            
+
+
+</ul>
+</br>
+
+
+
 <p><strong>[61] Heike Kamerlingh Onnes</strong></p>
 <p>Birth: September 21, 1853, Groningen, Netherlands</p>
 <p>Death: February 21, 1926, Leiden, Netherlands</p>
