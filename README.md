@@ -637,6 +637,33 @@
 <p>Birth: Nov. 14, 1797, Kinnordy, Forfarshire, Scotland</p>
 <p>Death: Feb. 22, 1875, London, England</p>
 <p>Known for: Modern Geology</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(247).pdf" style="text-decoration:none;">The Student's Elements of Geology</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(248).pdf" style="text-decoration:none;">The Antiquity of Man</a></li>
+ 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(249).pdf" style="text-decoration:none;">Principles of Geology: Volume 1</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(250).pdf" style="text-decoration:none;">Principles of Geology: Volume 2</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(251).pdf" style="text-decoration:none;">Principles of Geology: Volume 3</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(252).pdf" style="text-decoration:none;">The Geological Evidences of the Antiquity of Man</a></li>
+ 
+ 
+ 
+ 
+ 
+ </ul>
+ </br>
+
+
 <p><strong>[29] Pierre Simon de Laplace</strong></p>
 <p>Birth: March 23, 1749, Beaumount-en-Auge, Normandy, France</p>
 <p>Death: March 5, 1827, Paris</p>
