@@ -322,6 +322,15 @@
 <p>Birth: July 12, 1813, Saint-Julien</p>
 <p>Death: February. 10, 1878, Paris</p>
 <p>Known for: the Founding of Modern Physiology</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(216).pdf" style="text-decoration:none;">An Introduction to the Study of Experimental Medicine</a></li>
+</ul>
+</br>
 <p><strong>[14] Franz Boas</strong></p>
 <p>Birth: July 9, 1858, Minden, Westphalia, Germany</p>
 <p>Death: December 21, 1942, New York, U.S</p>
