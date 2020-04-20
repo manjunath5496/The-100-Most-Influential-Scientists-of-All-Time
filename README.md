@@ -1360,6 +1360,22 @@
 <p>Birth: September 21, 1853, Groningen, Netherlands</p>
 <p>Death: February 21, 1926, Leiden, Netherlands</p>
 <p>Known for: Superconductivity, Onnes-effect &amp;Virial Equation of State</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(320).pdf" style="text-decoration:none;">Investigations into the properties of substances at
+low temperatures, which have led, amongst other things, to the preparation of liquid helium [Nobel Lecture]</a></li>
+                            
+
+
+</ul>
+</br>
+
+
 <p><strong>[62] Thomas Hunt Morgan</strong></p>
 <p>Birth: September 25, 1866, Lexington, Kentucky</p>
 <p>Death: December 04, 1945, Pasadena, California</p>
