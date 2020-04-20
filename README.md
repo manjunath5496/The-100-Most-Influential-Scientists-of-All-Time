@@ -930,6 +930,19 @@
 <p>Birth: 1629</p>
 <p>Death: 1695</p>
 <p>Known for: the Wave Theory of Light</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(291).pdf" style="text-decoration:none;">Treatise on Light</a></li>
+
+</ul>
+</br>
+
+
+
 <p><strong>[41] Johann Carl Friedrich Gauss</strong></p>
 <p>Birth: April 30, 1777, Brunswick, Duchy of Brunswick-Wolfenb&uuml;ttel, Holy Roman Empire</p>
 <p>Death: February 23, 1855, G&ouml;ttingen, Kingdom of Hanover</p>
