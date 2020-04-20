@@ -1067,6 +1067,35 @@
 <p><strong>[49] James Dewey Watson</strong></p>
 <p>Birth: April 6, 1928, Chicago, Illinois, U.S</p>
 <p>Known for: the Structure of DNA</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(306).pdf" style="text-decoration:none;">Avoid Boring People: Lessons from a Life in Science</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(307).pdf" style="text-decoration:none;">Dictionary of Media and Communication Studies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(308).pdf" style="text-decoration:none;">DNA: The Secret of Life</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(309).pdf" style="text-decoration:none;">The Annotated and Illustrated Double Helix</a></li>  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(310).pdf" style="text-decoration:none;">The Double Helix: A Personal Account of the Discovery of the Structure of DNA</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(311).pdf" style="text-decoration:none;">The involvement of RNA in the synthesis of proteins [Nobel Lecture]</a></li>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</ul>
+
+</br>
+
+
 <p><strong>[50] John Bardeen</strong></p>
 <p>Birth: May 23, 1908, Madison, Wisconsin, U.S</p>
 <p>Death: Jan. 30, 1991, Boston, Massachusetts, U.S</p>
