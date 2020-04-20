@@ -1020,6 +1020,19 @@
 <p>Birth: October 09, 1852, Euskirchen, Rhine Province</p>
 <p>Death: July 15, 1919, Berlin, Germany</p>
 <p>Known for: Organic Chemistry</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(302).pdf" style="text-decoration:none;">Syntheses in the purine and sugar group [Nobel Lecture] </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(303).pdf" style="text-decoration:none;">Introduction to the preparation of organic compounds</a></li>
+
+</ul>
+</br>
+
+
 <p><strong>[47] Dmitri Mendeleev</strong></p>
 <p>Birth: Jan. 27 [Feb. 8, New Style], 1834, Tobolsk, Siberia, Russian Empire</p>
 <p>Death: Jan. 20 [Feb. 2], 1907, St. Petersburg, Russia</p>
