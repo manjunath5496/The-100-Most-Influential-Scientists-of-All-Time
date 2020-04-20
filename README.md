@@ -368,7 +368,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(106).pdf" style="text-decoration:none;">On Modern Physics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(107).pdf" style="text-decoration:none;">Philosophic Problems of Nuclear Science</a></li> 
 
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(220).pdf" style="text-decoration:none;">The development of quantum mechanics [Nobel Lecture]</a></li> 
 
 </ul>
 
@@ -398,7 +398,8 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(93).pdf" style="text-decoration:none;">The Nature of the Chemical Bond and the Structure of Molecules and Crystals: An Introduction to Modern Structural Chemistry</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(94).pdf" style="text-decoration:none;">The Architecture of Molecules</a></li>
-                         
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(221).pdf" style="text-decoration:none;">Modern structural chemistry [Nobel Lecture]</a></li>                        
 </ul>
 
 </br>
