@@ -1322,6 +1322,20 @@
 
 <p><strong>[59] Euclid</strong></p>
 <p>Known for: the Foundations of Mathematics</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(317).pdf" style="text-decoration:none;">The First Six Books of the Elements of Euclid</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(318).pdf" style="text-decoration:none;">Euclid's Optics</a></li>
+
+</ul>
+</br>
+
 <p><strong>[60] Gregor Mendel</strong></p>
 <p>Birth: July 22, 1822, Heinzendorf, Austria [now Hynčice, Czech Rep.]</p>
 <p>Death: Jan. 6, 1884, Br&uuml;nn, Austria-Hungary [now Brno, Czech Rep.]</p>
