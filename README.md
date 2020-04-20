@@ -51,7 +51,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(11).pdf" style="text-decoration:none;">On the electrodynamics of moving bodies</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(12).pdf" style="text-decoration:none;">The Collected Papers of Albert Einstein</a></li>                              
 
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(212).pdf" style="text-decoration:none;">Fundamental ideas and problems of the theory of relativity [Nobel Lecture]</a></li>   
 
 
 </ul>
@@ -73,7 +73,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(13).pdf" style="text-decoration:none;">The Theory of Spectra and Atomic Constitution</a></li>
                             
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(14).pdf" style="text-decoration:none;">Atomic Physics and Human Knowledge</a></li>
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(213).pdf" style="text-decoration:none;">The structure of the atom [Nobel Lecture]</a></li>   
                            
 </ul>
 
