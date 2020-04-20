@@ -1100,6 +1100,21 @@
 <p>Birth: May 23, 1908, Madison, Wisconsin, U.S</p>
 <p>Death: Jan. 30, 1991, Boston, Massachusetts, U.S</p>
 <p>Known for: Superconductivity &amp; BCS theory</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(312).pdf" style="text-decoration:none;">Semiconductor research leading to the point contact transistor [Nobel Lecture]</a></li>
+                            
+
+
+</ul>
+
+</br>
+
+
 <p><strong>[51] John von Neumann</strong></p>
 <p>Birth: December 28, 1903, Budapest, Austria-Hungary</p>
 <p>Death: February 8, 1957, Walter Reed General Hospital Washington, D.C.</p>
