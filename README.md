@@ -541,6 +541,18 @@
 <p>Birth: February 20, 1844, Vienna, Austrian Empire (present-day Austria)</p>
 <p>Death: September 5, 1906, Tybein near Trieste, Austria-Hungary [present-day Duino, Italy]</p>
 <p>Known for: Thermodynamics</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(241).pdf" style="text-decoration:none;">Buffon's Natural history, containing a theory of the earth, a general history of man, of the brute creation, and of vegetables, minerals</a></li>
+ </ul>
+ </br>
+
+
+
 <p><strong>[25] Max Planck</strong></p>
 <p>Birth: April 23, 1858, Kiel, Schleswig [Germany]</p>
 <p>Death: Oct. 4, 1947, G&ouml;ttingen, West Germany</p>
