@@ -214,6 +214,22 @@
 <p>Birth: Dec. 27, 1571, Weil der Stadt, Wurttemberg [Germany]</p>
 <p>Death: Nov. 15, 1630, Regensburg</p>
 <p>Known for: Motion of the Planets</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(214).pdf" style="text-decoration:none;">Harmonies of the World</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(215).pdf" style="text-decoration:none;">New Astronomy</a></li>
+
+                           
+</ul>
+
+</br>
+
 <p><strong>[10] Nicolaus Copernicus</strong></p>
 <p>Birth: Feb. 19, 1473, Toruń, Poland</p>
 <p>Death: May 24, 1543, Frauenburg, East Prussia [now Frombork, Poland]</p>
