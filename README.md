@@ -523,6 +523,16 @@
 <p>Birth: Dec. 14, 1546, Knudstrup, Scania, Denmark</p>
 <p>Death: Oct. 24, 1601, Prague</p>
 <p>Known for: the New Astronomy</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(240).pdf" style="text-decoration:none;">Learned Tico Brahe His Astronomical Conjecture of the New and Much Admired Star Which Appeared in the Year 1572 </a></li>
+ </ul>
+ </br>
+
 <p><strong>[23] Comte de Buffon</strong></p>
 <p>Birth: September 07, 1707, Montbard, Burgundy, France</p>
 <p>Death: April 16, 1788, Paris, France</p>
