@@ -504,6 +504,21 @@
 <p>Birth: Dec. 1514, Brussels [now in Belgium]</p>
 <p>Death: June 1564, island of Zacynthus, Republic of Venice [now in Greece]</p>
 <p>Known for: the New Anatomy</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(237).pdf" style="text-decoration:none;">Andreas Vesalius Bruxellensis: The Bloodletting Letter of 1539</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(238).pdf" style="text-decoration:none;">The illustrations from the works of Andreas Vesalius of Brussels</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(239).pdf" style="text-decoration:none;">Vesalius: The China Root Epistle</a></li>
+</ul>
+</br>
+
 <p><strong>[22] Tycho Brahe</strong></p>
 <p>Birth: Dec. 14, 1546, Knudstrup, Scania, Denmark</p>
 <p>Death: Oct. 24, 1601, Prague</p>
