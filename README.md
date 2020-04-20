@@ -722,6 +722,37 @@
 <p>Birth: December 18, 1856, Cheetham Hill, Manchester, Lancashire, England, United Kingdom</p>
 <p>Death: August 30, 1940, Cambridge, Cambridgeshire, England, UK</p>
 <p>Known for: the Discovery of the Electron</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(260).pdf" style="text-decoration:none;">Applications of dynamics to physics and chemistry</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(261).rar" style="text-decoration:none;">Conduction of electricity through gases</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(262).pdf" style="text-decoration:none;">The Corpuscular Theory of Matter</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(263).pdf" style="text-decoration:none;">Electricity and Matter</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(264).pdf" style="text-decoration:none;">Elements of the Mathematical Theory of Electricity and Magnetism</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(265).pdf" style="text-decoration:none;">On the Light Thrown by Recent Investigations on Electricity on the Relation Between Matter and Ether</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(266).pdf" style="text-decoration:none;">Rays of Positive Electricity and their Application to Chemical Analysis</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(267).pdf" style="text-decoration:none;">A Text-Book of Physics</a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(268).pdf" style="text-decoration:none;">Carriers of negative electricity [Nobel Lecture]</a></li>
+
+
+</ul>
+
+</br>
+
+
+
 <p><strong>[32] Max Born</strong></p>
 <p>Birth: December 11, 1882, Breslau, German Empire</p>
 <p>Death: January 5, 1970, G&ouml;ttingen, West Germany</p>
@@ -740,10 +771,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(113).pdf" style="text-decoration:none;">The Born Einstein Letters</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(114).pdf" style="text-decoration:none;">The Mechanics Of The Atom</a></li>                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(115).pdf" style="text-decoration:none;">The Statistical Interpretation of Quantum Mechanics</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(115).pdf" style="text-decoration:none;">The Statistical Interpretation of Quantum Mechanics [Nobel Lecture]</a></li>
                             
-
-
 
 
 </ul>
