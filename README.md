@@ -994,8 +994,6 @@
 <p><strong>[45] Murray Gell-Mann</strong></p>
 <p>Birth: September 15, 1929, Manhattan, New York City, United States</p>
 <p>Known for: Gell-Mann and Low theorem, Elementary particles, quarks, Gell-Mann matrices</p>
-<p><strong>[46] Hermann Emil Louis Fischer</strong></p>
-
 
 </br>
 <p><strong> Publications: </strong></p>
@@ -1018,7 +1016,7 @@
 
 
 
-
+<p><strong>[46] Hermann Emil Louis Fischer</strong></p>
 <p>Birth: October 09, 1852, Euskirchen, Rhine Province</p>
 <p>Death: July 15, 1919, Berlin, Germany</p>
 <p>Known for: Organic Chemistry</p>
