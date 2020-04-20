@@ -618,6 +618,21 @@
 <p>Birth: Nov. 15, 1738, Hanover, Germany</p>
 <p>Death: Aug. 25, 1822, Slough, Buckinghamshire, England</p>
 <p>Known for: Sidereal astronomy</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(245).pdf" style="text-decoration:none;">A Preliminary Discourse on the Study of Natural Philosophy</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(246).pdf" style="text-decoration:none;">A Treatise on Astronomy</a></li>
+ </ul>
+ </br>
+
+
+
 <p><strong>[28] Charles Lyell</strong></p>
 <p>Birth: Nov. 14, 1797, Kinnordy, Forfarshire, Scotland</p>
 <p>Death: Feb. 22, 1875, London, England</p>
