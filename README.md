@@ -786,6 +786,27 @@
 <p>Birth: June 8, 1916, Northampton, Northamptonshire, England</p>
 <p>Death: July 28, 2004, San Diego, Calif., U.S.</p>
 <p>Known for: Molecular Biology</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(269).pdf" style="text-decoration:none;">On the Genetic Code [Nobel Lecture]</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(270).pdf" style="text-decoration:none;">Life Itself: Its Origin and Nature</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(271).pdf" style="text-decoration:none;">What Mad Pursuit: A Personal View of Scientific Discovery</a></li>
+                   
+
+
+</ul>
+
+</br>
+
+
+
 <p><strong>[34] Enrico Fermi</strong></p>
 <p>Birth: Sept. 29, 1901, Rome, Italy</p>
 <p>Death: Nov. 28, 1954, Chicago, Ill., U.S.</p>
