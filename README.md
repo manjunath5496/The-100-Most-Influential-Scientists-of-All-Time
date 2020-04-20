@@ -604,6 +604,16 @@
 <p>Birth: Nov. 7, 1867, Warsaw, Poland, Russian Empire</p>
 <p>Death: July 4, 1934, near Sallanches, France</p>
 <p>Known for: Radioactivity</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(244).pdf" style="text-decoration:none;">Radium and the New Concepts in Chemistry [Nobel Lecture]</a></li>
+</ul>
+</br>
+
 <p><strong>[27] Sir William Herschel</strong></p>
 <p>Birth: Nov. 15, 1738, Hanover, Germany</p>
 <p>Death: Aug. 25, 1822, Slough, Buckinghamshire, England</p>
