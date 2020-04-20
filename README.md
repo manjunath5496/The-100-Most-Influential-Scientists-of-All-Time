@@ -198,6 +198,18 @@
 <p>Birth: Aug. 26, 1743, Paris, France</p>
 <p>Death: May 8, 1794, Paris</p>
 <p>Known for: the Revolution in Chemistry</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(210).pdf" style="text-decoration:none;">Essays Physical and Chemical</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(211).pdf" style="text-decoration:none;">Elements of Chemistry, In a New Systematic Order, Containing all the Modern Discoveries</a></li>
+
+</ul>
+</br>
 <p><strong>[9] Johannes Kepler</strong></p>
 <p>Birth: Dec. 27, 1571, Weil der Stadt, Wurttemberg [Germany]</p>
 <p>Death: Nov. 15, 1630, Regensburg</p>
