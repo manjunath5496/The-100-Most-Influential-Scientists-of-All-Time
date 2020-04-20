@@ -857,6 +857,20 @@
 <p>Birth: May 12, 1803, Darmstadt, Grand Duchy of Hesse</p>
 <p>Death: April 18, 1873, Munich, German Empire</p>
 <p>Known for: Nineteenth-Century Chemistry</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(278).pdf" style="text-decoration:none;">Animal Chemistry: or Organic Chemistry in Its Application to Physiology and Pathology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(279).pdf" style="text-decoration:none;">Letters on Modern Agriculture</a></li>
+ 
+</ul>
+</br>
+
+
+
 <p><strong>[37] Arthur Stanley Eddington</strong></p>
 <p>Birth: December 28, 1882, Kendal, Westmorland, England</p>
 <p>Death: November 22, 1944, Cambridge, Cambridgeshire, England</p>
