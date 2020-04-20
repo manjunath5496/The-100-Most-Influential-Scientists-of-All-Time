@@ -668,6 +668,39 @@
 <p>Birth: March 23, 1749, Beaumount-en-Auge, Normandy, France</p>
 <p>Death: March 5, 1827, Paris</p>
 <p>Known for: Black hole, nebular hypothesis of the origin of the solar system</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(253).pdf" style="text-decoration:none;">Elementary illustrations of the celestial mechanics of Laplace</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(254).pdf" style="text-decoration:none;">A Philosophical Essay on Probabilities </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(255).pdf" style="text-decoration:none;">Mechanism of the Heavens</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(256).pdf" style="text-decoration:none;">The System of the World: Translated from the French, and Elucidated, with Explanatory Notes: Volume 1 </a></li>                              
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(257).pdf" style="text-decoration:none;">The System of the World: Translated from the French, and Elucidated, with Explanatory Notes: Volume 2 </a></li>
+                            
+
+
+
+
+
+</ul>
+
+</br>
+
+
+
+
+
+
+
+
+
 <p><strong>[30] Edwin Powell Hubble</strong></p>
 <p>Birth: Nov. 20, 1889, Marshfield, Mo., U.S.</p>
 <p>Death: Sept. 28, 1953, San Marino, California</p>
