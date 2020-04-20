@@ -335,6 +335,19 @@
 <p>Birth: July 9, 1858, Minden, Westphalia, Germany</p>
 <p>Death: December 21, 1942, New York, U.S</p>
 <p>Known for: Modern Anthropology</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(217).pdf" style="text-decoration:none;">Anthropology and Modern Life </a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(218).pdf" style="text-decoration:none;"> The Mind Of Primitive Man</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(219).pdf" style="text-decoration:none;">The Central Eskimo</a></li>
+</ul>
+</br>
 <p><strong>[15] Werner Heisenberg</strong></p>
 <p>Birth: December, 1901, W&uuml;rzburg, Bavaria, German Empire</p>
 <p>Death: 1 February 1976, Munich, Bavaria, West Germany</p>
