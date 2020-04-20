@@ -946,7 +946,23 @@
 <p><strong>[41] Johann Carl Friedrich Gauss</strong></p>
 <p>Birth: April 30, 1777, Brunswick, Duchy of Brunswick-Wolfenb&uuml;ttel, Holy Roman Empire</p>
 <p>Death: February 23, 1855, G&ouml;ttingen, Kingdom of Hanover</p>
-<p>Known for: Number theory, algebra, statistics, analysis, differential geometry, geodesy, geophysics, mechanics, electrostatics, astronomy, matrix theory &amp; optics</p>
+<p>Known for: Number theory, algebra, statistics, analysis, differential geometry, geodesy, geophysics, mechanics, electrostatics, astronomy, matrix theory and optics</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(293).pdf" style="text-decoration:none;">General Investigations of Curved Surfaces </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(292).pdf" style="text-decoration:none;">Theory of the Motion of the Heavenly Bodies Moving about the Sun in Conic Sections</a></li>
+
+</ul>
+</br>
+
+
+
+
+
 <p><strong>[42] Albrecht von Haller</strong></p>
 <p>Birth: October 16, 1708, Bern, Swiss Confederacy</p>
 <p>Death: December 12, 1777, Bern, Swiss Confederacy</p>
