@@ -1052,6 +1052,18 @@
 <p><strong>[48] Sheldon Glashow</strong></p>
 <p>Birth: December 5, 1932, New York City, New York, USA</p>
 <p>Known for: Electroweak theory &amp; Georgi&ndash;Glashow model</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(305).pdf" style="text-decoration:none;">Toward a Unified Theory: Threads in a Tapestry [Nobel lecture]</a></li>
+
+ 
+
+</ul>
+</br>
+
 <p><strong>[49] James Dewey Watson</strong></p>
 <p>Birth: April 6, 1928, Chicago, Illinois, U.S</p>
 <p>Known for: the Structure of DNA</p>
