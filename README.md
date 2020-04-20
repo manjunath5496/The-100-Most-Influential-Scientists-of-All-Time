@@ -440,6 +440,21 @@
 <p>Birth: April 26, 1785, Les Cayes, Saint-Domingue, West Indies [now in Haiti]</p>
 <p>Death: Jan. 27, 1851, New York, N.Y., U.S.</p>
 <p>Known for: drawings and paintings of North American birds</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(230).pdf" style="text-decoration:none;">Ornithological Biography, Volume 1</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(231).pdf" style="text-decoration:none;">The quadrupeds of North America</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(232).pdf" style="text-decoration:none;">The Viviparous Quadrupeds of North America</a></li>
+</ul> 
+</br>
+
+
 <p><strong>[19] Ernest Rutherford</strong></p>
 <p>Birth: Aug. 30, 1871, Spring Grove, N.Z.</p>
 <p>Death: Oct. 19, 1937, Cambridge, Cambridgeshire, England</p>
