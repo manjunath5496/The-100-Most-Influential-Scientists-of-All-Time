@@ -906,6 +906,22 @@
 <p>Birth: April 1, 1578, Folkestone, Kent, England</p>
 <p>Death: June 3, 1657, London</p>
 <p>Known for: Circulation of the Blood</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(288).pdf" style="text-decoration:none;">An anatomical dissertation upon the movement of the heart and blood in animals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(289).pdf" style="text-decoration:none;">The visitation of Wiltshire 1565 </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(290).pdf" style="text-decoration:none;">Irish Life and Humour in Anecdote and Story</a></li>
+</ul>
+</br>
+
+
+
+
 <p><strong>[39] Marcello Malpighi</strong></p>
 <p>Birth: 1628</p>
 <p>Death: 1694</p>
