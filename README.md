@@ -975,6 +975,22 @@
 <p>Birth: Dec. 11, 1843, Clausthal, Hannover [now Clausthal-Zellerfeld, Germany]</p>
 <p>Death: May 27, 1910, Baden-Baden, Germany</p>
 <p>Known for: Bacteriology</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(294).pdf" style="text-decoration:none;">Investigations Into the Etiology of Traumatic Infective Diseases  </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(295).pdf" style="text-decoration:none;">Professor Koch on the Bacteriological Diagnosis of Cholera and Water-filtration</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(296).pdf" style="text-decoration:none;">A History of Tuberculosis: From the Time of Sylvius to the Present Day: Being in Part a Translation, with Notes and Additions, from the German of Dr. Arnold Spina: Containing Also an Account of the Researches and Discoveries of Dr. Robert Koch</a></li>
+ 
+
+</ul>
+</br>
+
+
+
 <p><strong>[45] Murray Gell-Mann</strong></p>
 <p>Birth: September 15, 1929, Manhattan, New York City, United States</p>
 <p>Known for: Gell-Mann and Low theorem, Elementary particles, quarks, Gell-Mann matrices</p>
