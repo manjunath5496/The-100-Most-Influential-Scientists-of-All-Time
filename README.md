@@ -1227,6 +1227,10 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(47).pdf" style="text-decoration:none;">The Theory Of Everything: The Origin and Fate of the Universe</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(313).pdf" style="text-decoration:none;">Brief Answers to the Big Questions</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(314).pdf" style="text-decoration:none;">The Dreams That Stuff Is Made of: The Most Astounding Papers of Quantum Physics and How They Shook the Scientific World</a></li>
+
 
 
 
