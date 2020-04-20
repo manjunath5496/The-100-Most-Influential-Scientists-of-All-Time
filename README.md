@@ -1264,6 +1264,21 @@
 <p>Birth: Oct. 09, 1879, Pfaffendorf, Kingdom of Prussia, German Empire</p>
 <p>Death: April 24, 1960, West Berlin</p>
 <p>Known for: X-ray Crystallography</p>
+
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(315).pdf" style="text-decoration:none;">History of Physics</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(316).pdf" style="text-decoration:none;">Concerning the detection of X-ray interferences [Nobel Lecture]</a></li>
+
+</ul>
+</br>
+
 <p><strong>[57] Gustav Kirchhoff</strong></p>
 <p>Birth: March 12, 1824, K&ouml;nigsberg, Kingdom of Prussia [present-day Russia]</p>
 <p>Death: October 17, 1887, Berlin, Prussia, German Empire [present-day Germany]</p>
