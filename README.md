@@ -840,6 +840,19 @@
 <p>Birth: April 15, 1707, Basel, Switzerland</p>
 <p>Death: September 18, 1783, Saint Petersburg, Russian Empire</p>
 <p>Known for: Eighteenth-Century Mathematics</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(272).pdf" style="text-decoration:none;">Elements of Algebra</a></li>
+
+</ul>
+</br>
+
+
 <p><strong>[36] Justus Liebig</strong></p>
 <p>Birth: May 12, 1803, Darmstadt, Grand Duchy of Hesse</p>
 <p>Death: April 18, 1873, Munich, German Empire</p>
