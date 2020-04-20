@@ -995,6 +995,30 @@
 <p>Birth: September 15, 1929, Manhattan, New York City, United States</p>
 <p>Known for: Gell-Mann and Low theorem, Elementary particles, quarks, Gell-Mann matrices</p>
 <p><strong>[46] Hermann Emil Louis Fischer</strong></p>
+
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(297).pdf" style="text-decoration:none;">Quantum Mechanics in the Light of Quantum Cosmology  </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(298).pdf" style="text-decoration:none;">An Interview with Murray Gell-Mann</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(299).pdf" style="text-decoration:none;">Murray Gell-Mann Selected Papers</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(300).pdf" style="text-decoration:none;">The Eightfold Way</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(301).pdf" style="text-decoration:none;">The Quark and the Jaguar</a></li>
+ 
+
+
+
+
+</ul>
+</br>
+
+
+
+
 <p>Birth: October 09, 1852, Euskirchen, Rhine Province</p>
 <p>Death: July 15, 1919, Berlin, Germany</p>
 <p>Known for: Organic Chemistry</p>
