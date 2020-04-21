@@ -1927,6 +1927,19 @@ low temperatures, which have led, amongst other things, to the preparation of li
 
 <p><strong>[82] Pythagoras</strong></p>
 <p>Known for: Pythagorean Theorem</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(367).pdf" style="text-decoration:none;">Ancient Philosophy: Or the Enchiridion of Epictetus, and Chrusa Epe of Pythagoras, Tr. Into English Prose and Verse with Large and Copious Notes, Explanatory of the Different Systems of the Grecian Philosophy; And Scriptural References in Illustration of</a></li>
+                            
+</ul>
+</br>
+
+
 <p><strong>[83] Benjamin Franklin</strong></p>
 <p>Birth: January 17, 1706, Boston, Massachusetts Bay, British America</p>
 <p>Death: April 17, 1790, Philadelphia, Pennsylvania, U.S.</p>
