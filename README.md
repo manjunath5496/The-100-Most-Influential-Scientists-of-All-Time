@@ -2024,6 +2024,33 @@ low temperatures, which have led, amongst other things, to the preparation of li
 
 <p><strong>[87] Archimedes</strong></p>
 <p>Known for: the Beginning of Science</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(380).pdf" style="text-decoration:none;">Geometrical Solutions Derived from Mechanics: A Treatise of Archimedes</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(381).pdf" style="text-decoration:none;">Archimedis Opera omnia</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(382).pdf" style="text-decoration:none;">The Method of Archimedes, recently discovered by Heiberg; a supplement to the Works of Archimedes, 1897</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(383).pdf" style="text-decoration:none;">The Works of Archimedes</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(384).pdf" style="text-decoration:none;">The Sand Reckoner</a></li>
+
+
+
+
+
+                              
+</ul>
+
+</br>
+
+
+
 <p><strong>[88] Sir Fred Hoyle</strong></p>
 <p>Birth: June 24, 1915, Bingley, Yorkshire [now West Yorkshire], England</p>
 <p>Death: Aug. 20, 2001, Bournemouth, Dorset</p>
