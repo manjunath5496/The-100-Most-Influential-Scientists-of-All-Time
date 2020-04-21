@@ -1902,6 +1902,21 @@ low temperatures, which have led, amongst other things, to the preparation of li
 
 <p><strong>[81] Hippocrates</strong></p>
 <p>Known for: Medicine</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(361).pdf" style="text-decoration:none;">The Aphorisms of Hippocrates</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(362).pdf" style="text-decoration:none;">Delphi Complete Works of Hippocrates</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(363).pdf" style="text-decoration:none;">Hippocrates, Volume I: Ancient Medicine</a></li>
+</ul>
+</br>
+
 <p><strong>[82] Pythagoras</strong></p>
 <p>Known for: Pythagorean Theorem</p>
 <p><strong>[83] Benjamin Franklin</strong></p>
