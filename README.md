@@ -1985,6 +1985,24 @@ low temperatures, which have led, amongst other things, to the preparation of li
 
 <p><strong>[85] Ptolemy</strong></p>
 <p>Known for: Greco-Roman science</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(375).pdf" style="text-decoration:none;">Ptolemy Harmonics</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(376).pdf" style="text-decoration:none;">Ptolemy's Almagest</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(377).pdf" style="text-decoration:none;">Ptolemy's Geography</a></li>                              
+</ul>
+
+</br>
+
+
+
 <p><strong>[86] Joseph-Louis Gay-Lussac</strong></p>
 <p>Birth: Dec. 6, 1778, Saint-L&eacute;onard-de-Noblat, France</p>
 <p>Death: May 9, 1850, Paris</p>
