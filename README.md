@@ -1615,6 +1615,17 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: August 01, 1744, Bazentin, Picardy, France</p>
 <p>Death: December 18, 1829, Paris, France</p>
 <p>Known for: the Foundations of Biology</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(360).rar" style="text-decoration:none;">Zoological philosophy</a></li>
+</ul>
+</br>
+
+
 <p><strong>[70] William Bayliss</strong></p>
 <p>Birth: May 2, 1860, Wednesbury, Staffordshire, England</p>
 <p>Death: August 27, 1924, London, England</p>
