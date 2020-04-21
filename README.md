@@ -1380,6 +1380,57 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: September 25, 1866, Lexington, Kentucky</p>
 <p>Death: December 04, 1945, Pasadena, California</p>
 <p>Known for: the Chromosomal Theory of Heredity</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(321).pdf" style="text-decoration:none;">A Critique of the Theory of Evolution</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(322).pdf" style="text-decoration:none;">The development of the frog's egg: an introduction to experimental embryology</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(323).pdf" style="text-decoration:none;">Evolution and adaptation</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(324).pdf" style="text-decoration:none;">The Mechanism of Mendelian heredity</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(325).pdf" style="text-decoration:none;">The relation of genetics to physiology and medicine [Nobel Lecture]</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(326).pdf" style="text-decoration:none;">The Genetic and the operative evidence relating to secondary sexual character</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(327).pdf" style="text-decoration:none;">Regeneration</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(328).pdf" style="text-decoration:none;">Sex-linked Inheritance in Drosophila</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(329).pdf" style="text-decoration:none;">Some possible bearings of genetics on pathology</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(330).pdf" style="text-decoration:none;">The Physical Basis of Heredity</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(331).pdf" style="text-decoration:none;">The Theory of the Gene</a></li>
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ul>
+</br>
+
+
+
 <p><strong>[63] Hermann von Helmholtz</strong></p>
 <p>Birth: August 31, 1821, Potsdam, Kingdom of Prussia</p>
 <p>Death: September 08, 1894, Charlottenburg, German Empire</p>
