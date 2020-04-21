@@ -2078,6 +2078,16 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p><strong>[89] Norman Ernest Borlaug</strong></p>
 <p>Birth: March 25, 1914, Cresco, Iowa, U.S.</p>
 <p>Known for: Green revolution</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(385).pdf" style="text-decoration:none;">The Green Revolution, Peace, and Humanity [Nobel Lecture]</a></li>
+</ul>
+</br>
+
 <p><strong>[90] Amedeo Avogadro</strong></p>
 <p>Birth: Aug. 9, 1776, Turin, in the Kingdom of Sardinia and Piedmont</p>
 <p>Death: July 9, 1856, Turin, Italy</p>
