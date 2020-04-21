@@ -1435,6 +1435,27 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: August 31, 1821, Potsdam, Kingdom of Prussia</p>
 <p>Death: September 08, 1894, Charlottenburg, German Empire</p>
 <p>Known for: the Rise of German Science</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(332).pdf" style="text-decoration:none;">Popular Lectures on Scientific Subjects</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(333).pdf" style="text-decoration:none;">Epistemological Writings</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(334).pdf" style="text-decoration:none;">Science and Culture: Popular and Philosophical Essays</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(335).pdf" style="text-decoration:none;">The Surgical Diseases of the Ear</a></li>
+
+
+
+
+</ul>
+</br>
+
 <p><strong>[64] Paul Ehrlich</strong></p>
 <p>Birth: March 14, 1854, Strehlen, Lower Silesia, German Kingdom of Prussia</p>
 <p>Death: August 20, 1915, Bad Homburg, Hesse, Germany</p>
