@@ -1460,6 +1460,43 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: March 14, 1854, Strehlen, Lower Silesia, German Kingdom of Prussia</p>
 <p>Death: August 20, 1915, Bad Homburg, Hesse, Germany</p>
 <p>Known for: Chemotherapy</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(336).pdf" style="text-decoration:none;">Partial cell functions [Nobel Lecture]</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(337).pdf" style="text-decoration:none;">Histology of the Blood</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(338).pdf" style="text-decoration:none;">Hope on Earth: A Conversation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(339).pdf" style="text-decoration:none;">On the wings of checkerspots: a model system for population biology</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(340).pdf" style="text-decoration:none;">One With Nineveh: Politics, Consumption, and the Human Future</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(341).pdf" style="text-decoration:none;">Population Resources Environment</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(342).pdf" style="text-decoration:none;">The Annihilation of Nature: Human Extinction of Birds and Mammals</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(343).pdf" style="text-decoration:none;">The Collected Papers of Paul Ehrlich</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(344).pdf" style="text-decoration:none;">The Population Bomb</a></li>
+
+
+
+
+</ul>
+</br>
+
+
+
 <p><strong>[65] Ernst Walter Mayr</strong></p>
 <p>Birth: July 05, 1904, Kempten, Germany</p>
 <p>Death: February 03, 2005, Bedford, Massachusetts, United States</p>
