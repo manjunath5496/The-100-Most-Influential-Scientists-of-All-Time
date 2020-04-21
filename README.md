@@ -1967,6 +1967,23 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: April 15, 1452, Anchiano, near Vinci, Republic of Florence [now in Italy]</p>
 <p>Death: May 2, 1519, Cloux [now Clos-Luce], France</p>
 <p>Known for: Mechanics and Cosmology</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(372).pdf" style="text-decoration:none;">The Drawings of Leonardo Da Vinci</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(373).pdf" style="text-decoration:none;">A Treatise on Painting</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(374).pdf" style="text-decoration:none;">The Complete Notebooks of Leonardo Da Vinci</a></li>                              
+</ul>
+
+</br>
+
+
 <p><strong>[85] Ptolemy</strong></p>
 <p>Known for: Greco-Roman science</p>
 <p><strong>[86] Joseph-Louis Gay-Lussac</strong></p>
