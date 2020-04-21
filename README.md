@@ -1558,6 +1558,35 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: September 04, 1906, Berlin, German Empire</p>
 <p>Death: March 9, 1981, Pasadena, California, United States</p>
 <p>Known for: the Bacteriophage</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(351).pdf" style="text-decoration:none;">A Physicist Looks at Biology</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(352).pdf" style="text-decoration:none;">A Physicist's Renewed Look at Biology – Twenty Years Later [Nobel Lecture] </a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(353).pdf" style="text-decoration:none;">Interview with Max Delbruck</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(354).pdf" style="text-decoration:none;">Viruses 1950: Proceedings of a Conference on the Similarities and Dissimilarities Between Viruses Attacking Animals, Plants, and Bacteria, Respectively. Held at the California Institute of Technology, Mar. 20-22, 1950 </a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(355).pdf" style="text-decoration:none;">Mind from Matter? An Essay on Evolutionary Epistemology</a></li>
+
+
+
+
+
+
+</ul>
+</br>
+
+
+
 <p><strong>[68] Charles Scott Sherrington</strong></p>
 <p>Birth: November 27, 1857, Islington, Middlesex, England</p>
 <p>Death: March 04, 1952, Eastbourne, Sussex, England</p>
