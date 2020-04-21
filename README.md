@@ -2096,6 +2096,18 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: June 13, 1911, San Francisco, Calif., U.S.</p>
 <p>Death: Sept. 1, 1988, Berkeley, California</p>
 <p>Known for: discovery of many resonance particles (subatomic particles having extremely short lifetimes and occurring only in high-energy nuclear collisions)</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(386).pdf" style="text-decoration:none;">Recent Developments in Particle Physics [Nobel Lecture]</a></li>
+</ul>
+</br>
+
+
 <p><strong>[92] George Gamow</strong></p>
 <p>Birth: March 4, 1904, Odessa, Russian Empire [now in Ukraine]</p>
 <p>Death: Aug. 19, 1968, Boulder, Colo., U.S.</p>
