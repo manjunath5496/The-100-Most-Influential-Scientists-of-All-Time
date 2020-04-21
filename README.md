@@ -2007,6 +2007,21 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: Dec. 6, 1778, Saint-L&eacute;onard-de-Noblat, France</p>
 <p>Death: May 9, 1850, Paris</p>
 <p>Known for: Behavior of gases</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(378).pdf" style="text-decoration:none;">The Expansion of Gases by Heat: Memoirs by Dalton, Gay-Lussac, Regnault and Chappuis</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(379).pdf" style="text-decoration:none;">The Free Expansion of Gases: Memoirs by Gay-Lussac, Joule, and Joule and Thomson</a></li>
+
+                              
+</ul>
+
+</br>
+
 <p><strong>[87] Archimedes</strong></p>
 <p>Known for: the Beginning of Science</p>
 <p><strong>[88] Sir Fred Hoyle</strong></p>
