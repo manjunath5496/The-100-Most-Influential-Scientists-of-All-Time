@@ -1591,6 +1591,26 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: November 27, 1857, Islington, Middlesex, England</p>
 <p>Death: March 04, 1952, Eastbourne, Sussex, England</p>
 <p>Known for: Neurophysiology</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(356).pdf" style="text-decoration:none;">Man on his Nature</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(357).pdf" style="text-decoration:none;">Inhibition as a Coordinative Factor [Nobel Lecture] </a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(358).pdf" style="text-decoration:none;">The Integrative Action of the Nervous System</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(359).pdf" style="text-decoration:none;">Mammalian physiology: a course of practical exercises </a></li>
+                            
+
+</ul>
+</br>
+
+
 <p><strong>[69] Jean Baptiste Lamarck</strong></p>
 <p>Birth: August 01, 1744, Bazentin, Picardy, France</p>
 <p>Death: December 18, 1829, Paris, France</p>
