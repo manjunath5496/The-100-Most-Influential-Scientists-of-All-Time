@@ -1529,6 +1529,31 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: January 25, 1900, Nemyriv, Russian Empire</p>
 <p>Death: December 18, 1975, San Jacinto, California, United States</p>
 <p>Known for: the Modern Synthesis</p>
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(348).pdf" style="text-decoration:none;">Evolutionary Biology: VOLUME 2</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(349).pdf" style="text-decoration:none;">Evolutionary Biology: VOLUME 6</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(350).pdf" style="text-decoration:none;">Evolutionary Biology: VOLUME 7</a></li>
+
+
+
+
+
+
+</ul>
+</br>
+
+
+
+
+
 <p><strong>[67] Max Delbruck</strong></p>
 <p>Birth: September 04, 1906, Berlin, German Empire</p>
 <p>Death: March 9, 1981, Pasadena, California, United States</p>
