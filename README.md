@@ -1944,6 +1944,25 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: January 17, 1706, Boston, Massachusetts Bay, British America</p>
 <p>Death: April 17, 1790, Philadelphia, Pennsylvania, U.S.</p>
 <p>Known for: Electricity</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(368).pdf" style="text-decoration:none;">The Autobiography of Benjamin Franklin</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(369).pdf" style="text-decoration:none;">The Way to Wealth</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(370).pdf" style="text-decoration:none;">Experiments and Observations on Electricity made at Philadelphia in America</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(371).pdf" style="text-decoration:none;">The private life of the late Benjamin Franklin</a></li>                              
+</ul>
+
+</br>
+
+
+
 <p><strong>[84] Leonardo da Vinci</strong></p>
 <p>Birth: April 15, 1452, Anchiano, near Vinci, Republic of Florence [now in Italy]</p>
 <p>Death: May 2, 1519, Cloux [now Clos-Luce], France</p>
