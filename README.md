@@ -1501,6 +1501,30 @@ low temperatures, which have led, amongst other things, to the preparation of li
 <p>Birth: July 05, 1904, Kempten, Germany</p>
 <p>Death: February 03, 2005, Bedford, Massachusetts, United States</p>
 <p>Known for: Evolutionary Theory</p>
+
+</br>
+<p><strong> Publications: </strong></p>
+<hr>
+<ul>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(345).pdf" style="text-decoration:none;">The Growth of Biological Thought: Diversity, Evolution, and Inheritance</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(346).pdf" style="text-decoration:none;">On a collection of birds made by Dr. Ernst Mayr in northern Dutch New Guinea</a></li>
+                            
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(347).pdf" style="text-decoration:none;">What Evolution Is?</a></li>
+
+
+
+
+
+
+</ul>
+</br>
+
+
+
 <p><strong>[66] Theodosius Grygorovych Dobzhansky</strong></p>
 <p>Birth: January 25, 1900, Nemyriv, Russian Empire</p>
 <p>Death: December 18, 1975, San Jacinto, California, United States</p>
