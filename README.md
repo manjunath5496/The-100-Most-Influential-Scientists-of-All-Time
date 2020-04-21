@@ -1983,7 +1983,6 @@ low temperatures, which have led, amongst other things, to the preparation of li
 
 </br>
 
-
 <p><strong>[85] Ptolemy</strong></p>
 <p>Known for: Greco-Roman science</p>
 <p><strong>[86] Joseph-Louis Gay-Lussac</strong></p>
