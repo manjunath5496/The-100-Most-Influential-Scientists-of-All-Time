@@ -111,7 +111,7 @@
 
 <p><strong>[5] Louis Pasteur</strong></p>
 <p>Birth: Dec. 27, 1822, Dole, France</p>
-<p>Sept. 28, 1895, Saint-Cloud, near Paris</p>
+<p>Death: Sept. 28, 1895, Saint-Cloud, near Paris</p>
 <p>Known for: the Germ Theory of Disease</p>
 
 </br>
